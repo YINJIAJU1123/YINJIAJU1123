@@ -33,25 +33,6 @@ I'm broadly interested in making robots smarter and more capable, with a focus o
 
 ---
 
-## 🛠️ Skills & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YINJIAJU1123&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YINJIAJU1123&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 📫 Get in Touch
 
 I'm always open to discussions on robotics, research collaborations, or just a good conversation about the future of embodied AI.
