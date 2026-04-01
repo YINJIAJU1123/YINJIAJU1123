@@ -9,18 +9,18 @@ I'm a Ph.D. student at **HKUST (Guangzhou)** (joint with **BrainCo**) working on
 | Degree | Institution | Field |
 |--------|------------|-------|
 | Ph.D. (ongoing) | Hong Kong University of Science and Technology (GZ) × BrainCo | Robotics / AI |
-| M.Sc. | National University of Singapore (NUS) | Robotics |
+| Master | National University of Singapore (NUS) | Robotics |
 | B.Eng. | Sichuan University | Robotics |
 
 ---
 
 ## Experience
 
-**A\*STAR** — Research Intern *(during M.Sc.)*
+**A\*STAR** — Research Intern *(during Master)*
 - Conducted robotics research at one of Asia's leading public research institutions
 - Worked on projects spanning robot perception and manipulation
 
-**UBTECH Robotics** — Algorithm Engineer *(1 year, after M.Sc.)*
+**UBTECH Robotics** — Algorithm Engineer *(1 year, after Master)*
 - Developed and deployed robotics algorithms bridging research and real-world production systems
 - Gained hands-on experience with humanoid robotic platforms in industry-scale environments
 - Strengthened my motivation to push the boundaries of robot intelligence through academic research
